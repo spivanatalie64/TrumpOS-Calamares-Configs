@@ -1,0 +1,1 @@
+# TrumpOS Calamares Configuration
